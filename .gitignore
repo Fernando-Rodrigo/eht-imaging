@@ -22,3 +22,6 @@ data/OJ287AUG10B.UVP
 # Unit tests should be included
 !ehtim/tests/
 !ehtim/tests/test_*.py
+
+.vscode
+.venv
